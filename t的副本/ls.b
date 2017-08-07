@@ -1,0 +1,1 @@
+ls /home/august/data/fetion_pl/opt

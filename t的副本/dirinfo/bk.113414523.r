@@ -1,0 +1,36 @@
+Remote working directory is /home/august
+Listing directory /home/august/data/fetion_pl/bk
+drwxr-xr-x    2 august   users        4096 May  9 14:49 .
+drwxr-xr-x    7 august   users        4096 May 10 18:32 ..
+-rw-r--r--    1 august   users        5598 May  9 14:49 ETL.pl
+-rw-r--r--    1 august   users       22302 May  9 14:49 cmhk_bill_chk_new.pl
+-rw-r--r--    1 august   users       17554 May  9 14:49 coustom_service_sync.pl
+-rw-r--r--    1 august   users        7268 May  9 14:49 custom_serv.pl
+-rw-r--r--    1 august   users        5627 May  9 14:49 export_ba_order.pl
+-rw-r--r--    1 august   users        6368 May  9 14:49 export_bi_psorderlog.pl
+-rw-r--r--    1 august   users        3882 May  9 14:49 export_boss_psorder.pl
+-rw-r--r--    1 august   users       10633 May  9 14:49 export_import.pl
+-rw-r--r--    1 august   users       13016 May  9 14:49 export_log_his.pl
+-rw-r--r--    1 august   users       10127 May  9 14:49 export_logs_stat.pl
+-rw-r--r--    1 august   users        5627 May  9 14:49 export_sp_psorder.pl
+-rw-r--r--    1 august   users        7836 May  9 14:49 gen_order.pl
+-rw-r--r--    1 august   users       26072 May  9 14:49 gen_prov_boss_order.pl
+-rw-r--r--    1 august   users       24288 May  9 14:49 gen_prov_boss_order_b.pl
+-rw-r--r--    1 august   users       10881 May  9 14:49 gen_prov_boss_order_old.pl
+-rw-r--r--    1 august   users       13186 May  9 14:49 gen_qyb_testdata.pl
+-rw-r--r--    1 august   users        5679 May  9 14:49 import.pl
+-rw-r--r--    1 august   users        7268 May  9 14:49 import_ba_order.pl
+-rw-r--r--    1 august   users       13544 May  9 14:49 init.pl
+-rw-r--r--    1 august   users        9147 May  9 14:49 order_diff_analysis.pl
+-rw-r--r--    1 august   users        1768 May  9 14:49 perl_template.pl
+-rw-r--r--    1 august   users        6406 May  9 14:49 sdr_sync.pl
+-rw-r--r--    1 august   users       12811 May  9 14:49 service_authorization_sync.pl
+-rw-r--r--    1 august   users        5158 May  9 14:49 t.pl
+-rw-r--r--    1 august   users         204 May  9 14:49 time.pl
+-rw-r--r--    1 august   users       10794 May  9 14:49 vgop_bill_chk_analysis.pl
+-rw-r--r--    1 august   users       26018 May  9 14:49 vgop_bill_chk_b.pl
+-rw-r--r--    1 august   users        8628 May  9 14:49 vgop_bill_chk_load.pl
+-rw-r--r--    1 august   users       38286 May  9 14:49 vgop_bill_chk_new.pl
+-rw-r--r--    1 august   users       23438 May  9 14:49 vgop_bill_chk_seg.pl
+-rw-r--r--    1 august   users       23862 May  9 14:49 vgop_bill_chk_t.pl
+-rw-r--r--    1 august   users        4297 May  9 14:49 vip_membership.pl

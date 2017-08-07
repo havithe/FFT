@@ -1,0 +1,41 @@
+################################################################################
+Wed May 15 14:39:37 2013 | t.pl starting ...
+tansformer.pl sync_date
+--------------------------------------------------------------------------------
+in transform...
+
+################################################################################
+ in sync ...
+
+################################################################################
+in syncInstance ...
+	######################################################################
+	in syncPutQue ...
+	######################################################################
+	in syncGetQue ...
+	######################################################################
+	in syncDelLoc ...
+	######################################################################
+	in syncDelRemote ...
+	name:./efsl.pl	nodetyp:FILE
+	name:./fspliter.pl	nodetyp:FILE
+	name:./gen_ora.pl	nodetyp:FILE
+	name:./getFilesFTP.pl	nodetyp:FILE
+	name:./load_ods.pl	nodetyp:FILE
+	name:./load_ods_g.pl	nodetyp:FILE
+	name:./mntf.pl	nodetyp:FILE
+	name:./mntf_dev.pl	nodetyp:FILE
+	name:./perl_temp.pl	nodetyp:FILE
+	name:./s.pl	nodetyp:FILE
+	name:./vgop_activeuser.pl	nodetyp:FILE
+	name:./wincount.pl	nodetyp:FILE
+
+--------------------------------------------------------------------------------
+ in recLibConfigFile ... D:/t/config/libconfig.conf 
+
+--------------------------------------------------------------------------------
+ in recLibConfigFile ... D:/t/rlibconfig.conf 
+
+--------------------------------------------------------------------------------
+Wed May 15 14:40:13 2013 | t.pl finished.
+################################################################################
