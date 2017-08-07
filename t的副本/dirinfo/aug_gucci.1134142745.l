@@ -1,3 +1,0 @@
-GTD
-stack
-ӦƸ
